@@ -1,7 +1,7 @@
 <template>
   <div>
-    <hello-metamask/>
     <casino-component/>
+    <hello-metamask/>
   </div>
 </template>
 <script>

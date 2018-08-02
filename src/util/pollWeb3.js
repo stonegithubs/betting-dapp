@@ -33,6 +33,6 @@ let pollWeb3 = function (state) {
       }
     }
   }, 500)
-}
+};
 
 export default pollWeb3

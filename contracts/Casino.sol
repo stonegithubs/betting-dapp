@@ -21,7 +21,7 @@ contract Mortal is Ownable {
 
 contract Casino is Mortal {
   uint minBet;
-  uint houseEdge; //in %
+  uint houseEdge; //in % 庄家上风
 
   event Won(bool _status, uint _amount);
 

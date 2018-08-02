@@ -8,6 +8,6 @@ let getContract = new Promise(function (resolve, reject) {
   console.log(casinoContract)
   console.log(casinoContractInstance)
   resolve(casinoContractInstance)
-})
+});
 
 export default getContract
